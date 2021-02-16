@@ -1,0 +1,57 @@
+.corps {
+    margin: 15px;
+    padding: 15px;
+}
+
+.ma_photo{
+    width: 50%;
+    height: 10%;
+    }
+
+
+h1 {
+    margin-left: 3%;
+    font-size: 300% !important;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+header {
+    border-bottom: 3px solid #FFF;
+    color: #FFF;
+    font-size: 5em;
+    text-align: center;
+    padding: 32px 0;
+}
+
+ .header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1%;
+    }
+    
+    .text1{
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        margin-left: 3%;
+    }
+    
+    H1{
+        margin-left: 3%;
+        font-size: 300% !important;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+        color: black;
+    }
+
+
+
+
+
+
+
+
+
